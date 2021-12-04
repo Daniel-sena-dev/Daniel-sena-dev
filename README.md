@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**DanielSena22/DanielSena22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudo Ciências e Tecnologia na UFRN.
+- 🌱 Estou estudando HTML5, CSS3 e JavaScript.
 
-Here are some ideas to get you started:
+<div>
+  <a href = "https://github.com/DanielSena22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSena22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSena22&layout=compact&langs_count=7&theme=dracula"/>
+                           
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+
+
