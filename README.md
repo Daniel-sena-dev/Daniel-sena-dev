@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-- 🔭 Estudo Ciências e Tecnologia na UFRN.
-- 🌱 Estou estudando HTML5, CSS3, JavaScript e Python 3.
+- 🔭 Estudo Ciências e Tecnologia com ênfase em computação aplicada na UFRN.
+- 🌱 Estou estudando CSS3, HTML5, JavaScript, Python, React e Vite.
 
 <div>
   <a href = "https://github.com/DanielSena22">
@@ -16,4 +16,6 @@
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
           
