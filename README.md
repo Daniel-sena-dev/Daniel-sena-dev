@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Estudo Ciências e Tecnologia com ênfase em computação aplicada na UFRN.
-- 🌱 Estou estudando CSS3, HTML5, JavaScript, Python, React e Vite.
+- 🌱 Estou estudando CSS3, HTML5, JavaScript, Python e React.
 
 <div>
   <a href = "https://github.com/DanielSena22">
