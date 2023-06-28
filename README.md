@@ -4,7 +4,7 @@
 - 🌱 Estou estudando CSS3, HTML5, JavaScript, Python e React.
 
 <div>
-  <a href = "https://github.com/DanielSena22">
+  <a href = "https://github.com/Daniel-sena-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielSena22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSena22&layout=compact&langs_count=7&theme=dark"/>
                            
