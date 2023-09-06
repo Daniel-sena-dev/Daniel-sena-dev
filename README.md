@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Sou Daniel Sena 👋</h1>
-  <p>🔭 Estudo Ciências e Tecnologia com ênfase em computação aplicada na UFRN.</p>
+  <p>🔭 Sou estudante de Ciências e Tecnologia com ênfase em computação aplicada na UFRN.</p>
   <p>🌱 Estou estudando CSS3, HTML5, JavaScript, PHP 8, Python e React.</p>
 </div>
 <hr>
