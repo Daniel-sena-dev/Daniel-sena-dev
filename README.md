@@ -5,8 +5,8 @@
 
 <div>
   <a href = "https://github.com/Daniel-sena-dev">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-sena-dev&show_icons=true&theme=neon-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-sena-dev&layout=compact&langs_count=7&theme=neon-dark"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-sena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-sena-dev&layout=compact&langs_count=7&theme=dark"/>
                            
 </div>
 
@@ -24,5 +24,5 @@
   </div>        
 <div align="center">
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Daniel-sena-dev&theme=neon-dark&hide_border=true&background=DD272700" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Daniel-sena-dev&theme=dark&hide_border=true&background=DD272700" />
 </div>
