@@ -24,5 +24,5 @@
   </div>        
 <div align="center">
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pedroperegrinaa&theme=neon-dark&hide_border=true&background=DD272700" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Daniel-sena-dev&theme=neon-dark&hide_border=true&background=DD272700" />
 </div>
