@@ -5,8 +5,8 @@
 
 <div>
   <a href = "https://github.com/Daniel-sena-dev">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-sena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-sena-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-sena-dev&show_icons=true&theme=neon-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-sena-dev&layout=compact&langs_count=7&theme=neon-dark"/>
                            
 </div>
 
