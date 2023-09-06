@@ -1,8 +1,7 @@
 <div align="center">
   ### Olá! Sou Daniel Sena 👋
-  
-  - 🔭 Estudo Ciências e Tecnologia com ênfase em computação aplicada na UFRN.
-  - 🌱 Estou estudando CSS3, HTML5, JavaScript, PHP 8, Python e React.
+  🔭 Estudo Ciências e Tecnologia com ênfase em computação aplicada na UFRN.
+  🌱 Estou estudando CSS3, HTML5, JavaScript, PHP 8, Python e React.
 </div>
 
 <div align="center">
