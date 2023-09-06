@@ -3,7 +3,7 @@
   <p>🔭 Estudo Ciências e Tecnologia com ênfase em computação aplicada na UFRN.</p>
   <p>🌱 Estou estudando CSS3, HTML5, JavaScript, PHP 8, Python e React.</p>
 </div>
-##
+<hr>
 <div align="center">
   <a href = "https://github.com/Daniel-sena-dev">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-sena-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
