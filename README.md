@@ -20,7 +20,3 @@
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>        
-<div align="center">
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Daniel-sena-dev&theme=dark&hide_border=true&background=DD272700" />
-</div>
